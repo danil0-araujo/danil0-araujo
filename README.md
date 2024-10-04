@@ -1,7 +1,7 @@
 ## About me
 
 <div style="display: inline_block" >
-  <img align="left" height="270px" src="https://i.giphy.com/VFHa3Kg39gFLVbinN1.webp">
+  <img align="left" height="230px" src="https://i.giphy.com/VFHa3Kg39gFLVbinN1.webp">
 
 ```javascript
 function main() {
