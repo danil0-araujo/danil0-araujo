@@ -1,16 +1,18 @@
-## Hi there 👋
+## About me
 
-<!--
-**danil0-araujo/danil0-araujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div style="display: inline_block" >
+  <img align="left" height="270px" src="https://i.giphy.com/VFHa3Kg39gFLVbinN1.webp">
 
-Here are some ideas to get you started:
+```javascript
+function main() {
+  const user = {
+    name: "Danilo A. Silva",
+    whatDoIDo: "Quality Assurance & Software Enthusiast",
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    location: [["Unaí", "MG"], ["Brasilia", "DF"], ["Anápolis", "GO"]],
+  }
+
+  console.log("Hello, my name is " + user.name) 
+}
+```
+</div>
